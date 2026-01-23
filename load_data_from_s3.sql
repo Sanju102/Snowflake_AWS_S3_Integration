@@ -47,3 +47,5 @@ ON_ERROR=CONTINUE;
 
 SHOW PIPES;
 SELECT * FROM ECOM.ORDERS.SALES;
+
+-- This is our test comment.
